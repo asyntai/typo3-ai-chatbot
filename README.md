@@ -19,7 +19,7 @@ This extension embeds the Asyntai chatbot on your TYPO3 site and provides a simp
 
 ## Installation
 
-1. Copy the extension folder to `/typo3conf/ext/asyntai_chatbot/`
+1. Copy the extension folder to `/typo3conf/ext/asyntai_chatbot/`  (must be named exactly like this, otherwise it will not work)
 2. Or install via Composer: `composer require asyntai/typo3-ai-chatbot`
 3. Activate the extension in TYPO3 Backend → Admin Tools → Extensions
 4. Navigate to Tools → Asyntai Chatbot
@@ -60,4 +60,5 @@ Email us at hello@asyntai.com or try our chatbot directly at [asyntai.com/](http
 ![Asyntai AI chatbot 3](https://asyntai.com/static/images/ai-chatbot-for-websites-3.png)
 ![Asyntai AI chatbot 4](https://asyntai.com/static/images/ai-chatbot-for-websites-4.png)
 ![Asyntai AI chatbot 5](https://asyntai.com/static/images/ai-chatbot-for-websites-5.png)
+
 
