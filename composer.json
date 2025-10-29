@@ -1,0 +1,21 @@
+{
+  "name": "asyntai/typo3-ai-chatbot",
+  "description": "Asyntai - AI Chatbot for TYPO3",
+  "type": "typo3-cms-extension",
+  "license": "MIT",
+  "require": {
+    "typo3/cms-core": ">=12.0.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "Asyntai\\Chatbot\\": "Classes/"
+    }
+  },
+  "extra": {
+    "typo3/cms": {
+      "extension-key": "asyntai_chatbot"
+    }
+  }
+}
+
+

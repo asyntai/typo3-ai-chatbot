@@ -1,0 +1,15 @@
+services:
+  _defaults:
+    autowire: true
+    autoconfigure: true
+    public: false
+
+  Asyntai\Chatbot\:
+    resource: '../Classes/*'
+
+  Asyntai\Chatbot\Controller\ModuleController:
+    public: true
+
+  Asyntai\Chatbot\Controller\AjaxController:
+    public: true
+

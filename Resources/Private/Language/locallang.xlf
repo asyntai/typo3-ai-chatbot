@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2">
+  <file source-language="en" datatype="plaintext" original="messages" date="2025-10-28T00:00:00Z">
+    <body>
+      <trans-unit id="title">
+        <source>Asyntai - AI Chatbot</source>
+      </trans-unit>
+      <trans-unit id="description">
+        <source>AI assistant / chatbot – Provides instant answers to your website visitors</source>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
+
+
