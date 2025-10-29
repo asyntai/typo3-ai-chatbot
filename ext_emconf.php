@@ -6,7 +6,7 @@ $EM_CONF[$_EXTKEY] = [
     'category' => 'plugin',
     'state' => 'stable',
     'author' => 'Asyntai',
-    'author_email' => 'support@asyntai.com',
+    'author_email' => 'hello@asyntai.com',
     'version' => '1.0.0',
     'constraints' => [
         'depends' => [
@@ -16,5 +16,6 @@ $EM_CONF[$_EXTKEY] = [
         'suggests' => [],
     ],
 ];
+
 
 
